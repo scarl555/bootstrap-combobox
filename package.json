@@ -1,7 +1,7 @@
 {
-  "name": "@danielfarrell/bootstrap-combobox",
+  "name": "@scarl/bootstrap-combobox",
   "version": "1.2.0",
-  "description": "A combobox plugin that works with twitter bootstrap",
+  "description": "A combobox plugin that works with twitter bootstrap: Forked on danielfarrell/bootstrap-combobox",
   "main": "js/bootstrap-combobox.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
